@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Interdisciplinary Art & Research]]></title>
         <description><![CDATA[Interdisciplinary Art & Research]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://sammychien.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Feb 2016 22:27:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 20 Feb 2016 22:29:06 GMT</lastBuildDate>
+        <atom:link href="http://sammychien.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>test1</p>]]></description>
+            <link>http://sammychien.com/0731d9a9-57f8-40a5-9a12-b22849718cd4/index.html</link>
+            <guid isPermaLink="false">0731d9a9-57f8-40a5-9a12-b22849718cd4</guid>
+            <pubDate>Sat, 20 Feb 2016 22:28:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c4994aa9-81dd-44bd-8348-12327d4cb8fa.jpg">]]></description>
-            <link>undefined35c9acba-0d5f-4cd1-b337-38d3593f8f39/index.html</link>
+            <link>http://sammychien.com/35c9acba-0d5f-4cd1-b337-38d3593f8f39/index.html</link>
             <guid isPermaLink="false">35c9acba-0d5f-4cd1-b337-38d3593f8f39</guid>
             <pubDate>Sat, 20 Feb 2016 22:27:18 GMT</pubDate>
         </item>
